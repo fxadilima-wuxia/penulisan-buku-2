@@ -4,7 +4,7 @@ layout: post
 
 # Kata Pengantar
 
-Dengan selesainya penulisan naskah **Buku III dan IV** dari cerita `Tanah Perjanjian Di Ufuk Barat` yang sejak awal saya beri judul bahasa Inggris `The Promised Land In The Western Horizon` ini, saya memutuskan untuk mulai menyusun naskah untuk **Buku I, II dan V** yang merupakan inti cerita __Yitian Tulong Ji (倚天屠龍記)__[^judul-1] sendiri, kecuali di `Buku V` yang tentu saja adalah ide cerita saya.
+Dengan selesainya penulisan naskah **Buku III dan IV** dari cerita `Tanah Perjanjian Di Ufuk Barat` yang sejak awal saya beri judul bahasa Inggris `The Promised Land In The Western Horizon` ini, saya memutuskan untuk mulai menyusun naskah **Buku I, II dan V** yang merupakan inti cerita __Yitian Tulong Ji (倚天屠龍記)__[^judul-1] sendiri, kecuali di `Buku V` yang tentu saja adalah ide cerita saya.
 
 Karakter-karakter yang ditampilkan di semua buku di atas sebagian besar diambil dari karakter utama Yitian Tulong Ji (Pedang Langit Dan Golok Pembunuh Naga), dengan banyak penyesuaian, ditambah dengan karakter-karakter yang diambil dari tokoh sejarah nyata, atau dikembangkan dari situ.
 
