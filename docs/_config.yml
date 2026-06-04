@@ -1,0 +1,43 @@
+
+title: FX. Adi Lima Wuxia
+url: "https://fxadilima-wuxia.github.io/penulisan-buku-2"
+author: 
+  name: "FX. Adi Lima"
+  email: "xaverius2017@gmail.com"
+  uri: "https://github.com/fxadilima-wuxia"
+  facebook:
+    username: "fx_adi_lima"
+  instagram:
+    username: "fx_adi_lima"
+sameAs:
+  - "https://facebook.com/fx_adi_lima"
+  - "https://instagram.com/fx_adi_lima"
+  - "https://github.com/fxadilima-wuxia"
+
+description: >
+  Kumpulan cerita silat era Dinasti Song - Yuan - Ming,
+  yang disadur atau diadaptasikan dari serial klasik Jin Yong.
+  Ditulis oleh FX. Adi Lima.
+
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
+
+minima:
+  skin: auto  # classic or dark, ignore solarized
+
+#
+#   Minima date format.
+#     The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
+#     Refer to https://shopify.github.io/liquid/filters/date/ for valid values
+#  date_format: "%b-%d-%Y"
+  date_format: "%A %B %d, %Y"
+
+show_excerpts: true
+

@@ -1,0 +1,22 @@
+---
+layout: base
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1>{{ page.title | escape }}</h1>
+    <img class="w3-image w3-round-large"
+        src="{{ page.image | escape }}"
+        alt="feature_image" 
+    />
+    <h2 class="post-title">{{ page.subtitle | escape }}</h2>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+
+    {% include novel-menu.html %}
+  </div>
+
+</article>
+
